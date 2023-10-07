@@ -8,7 +8,7 @@ The following project has been one of the most interesting and challenging work 
 
 <h1><a href='https://github.com/JosephMartinelli/APMD2022'>Alghorithms and Programming for Massive Data</a></h1>
 <p><b>Language:&nbsp;</b>Python&nbsp;&nbsp;<b>Libraries learned:&nbsp;</b>Pandas,Networkx</p>
-The scope of the project was to apply all the theorical concepts regarding the dealing and the traversing of large quantity of data. A lot of care has been put not only in prepocessing phase, but also the creation of a complex data structure.
+The goal of the project was to apply all the theorical concepts regarding the dealing and the traversing of large quantity of data. A lot of care has been put not only in the prepocessing phase, but also in the creation of a complex data structure.
 
 <h1><a href='https://github.com/JosephMartinelli/WebMiningProject'>Web Mining: Group Project</a></h1>
 <p><b>Language:&nbsp;</b>Python&nbsp;&nbsp;<b>Libraries learned:&nbsp;</b>Pythorch,Pandas, Pythorch Autograd</p>
