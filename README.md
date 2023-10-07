@@ -1,10 +1,10 @@
 # Projects
 These are all the exam's projects I've done during my accademia. The most recent ones are from the Master's degree at UNIFI in Data Science, while the oldest ones are from my bsc at UNISA.
-To access to each project's repository, you can click on the title of each header. Be warned, most of the projects description are in italian, since the courses language was that
+To access each project's repository, you can click on the title of each header. Most of the projects description are in italian, Since the courses were taught in italian
 
 <h1><a href='https://github.com/JosephMartinelli/VAEs'>Computational Learning: An implementation from scratch of VAEs</a></h1>
 <p><b>Language:&nbsp;</b>Python&nbsp;&nbsp;<b>Libraries learned:&nbsp;</b>Pythorch,Pandas, Pythorch Autograd</p>
-The following project has been one of the most interesting and challeging I have ever done. I do believe I have learned a lot how torch and the autograd engine really works in the field of ML.
+The following project has been one of the most interesting and challenging work I have ever done. I do believe I have learned a lot on how torch and the autograd engine really work in the field of ML,
 
 <h1><a href='https://github.com/JosephMartinelli/APMD2022'>Alghorithms and Programming for Massive Data</a></h1>
 <p><b>Language:&nbsp;</b>Python&nbsp;&nbsp;<b>Libraries learned:&nbsp;</b>Pandas,Networkx</p>
