@@ -19,7 +19,7 @@ Thanks to the course of Web Mining, I have acquired knwoledge about the use of s
 The course of Data Mining and Organization had the objective of learning how to find latent information from a high volume data source and to how deal with the organization of it. In particular, the former part of the course thought how to find pattern in information, while the latter thought why the use of traditional data structures is not ideal while dealing with data sources that can not be loaded fully into memory due to their size.
 
 <h1><a href='https://github.com/JosephMartinelli/Multivariate-GroupProject'>Multivariate Analysis: Group Project</a></h1>
-Description coming soon...
+A project based on the analysis of the effect of collinearity on high dimensionality data.
 
 <h1><a href='https://github.com/JosephMartinelli/ConditionalTrees'>Multivariate Analysis: Individual Project</a></h1>
 <p><b>Language:&nbsp;</b>Python&nbsp;&nbsp;<b>Libraries learned:&nbsp;</b>None</p>
