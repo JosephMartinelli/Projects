@@ -22,13 +22,18 @@ The course of Data Mining and Organization had the objective of learning how to 
 Description coming soon...
 
 <h1><a href='https://github.com/JosephMartinelli/ConditionalTrees'>Multivariate Analysis: Individual Project</a></h1>
+<p><b>Language:&nbsp;</b>Python&nbsp;&nbsp;<b>Libraries learned:&nbsp;</b>None</p>
 The main objective of the project was to propose a deep dive in the theoretical aspects of using conditional inference in the construction of decisional binary trees
 
 <h1><a href='https://github.com/JosephMartinelli/DSP-Assignments'>Data Security and Privacy: Assignments</a></h1>
+<p><b>Language:&nbsp;</b>Python&nbsp;&nbsp;<b>Libraries learned:&nbsp;</b>None</p>
 Here you can find all the assignments I did for the course of Data Security and Privacy. The assignment are all Python implementations of encryption algorithms we did during the course
 
 <h1><a href='https://github.com/JosephMartinelli/MARS-FIA'>MARS-FIA</a></h1>
+<p><b>Language:&nbsp;</b>Python&nbsp;&nbsp;<b>Libraries learned:&nbsp;</b>Pandas</p>
 This is a clustering based recommendation system we built for the exam of Artificial Intelligence at UNISA
 
 <h1><a href='https://github.com/JosephMartinelli/ArtGalleryProject'>Art Gallery Project</a></h1>
+<p><b>Language:&nbsp;</b>Java for back-end&nbsp;, HTML and CSS for front end&nbsp;<b>Libraries learned:&nbsp;</b>None</p>
+
 A web-app that emulates an art e-commerce. Completely built in java for the back-end while html and css are used for the front. Also, here you can see we used Selenium and Boostrap
