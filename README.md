@@ -11,7 +11,7 @@ The following project has been one of the most interesting and challenging work 
 The goal of the project was to apply all the theorical concepts regarding the dealing and the traversing of large quantity of data. A lot of care has been put not only in the prepocessing phase, but also in the creation of a complex data structure.
 
 <h1><a href='https://github.com/JosephMartinelli/WebMiningProject'>Web Mining: Group Project</a></h1>
-<p><b>Language:&nbsp;</b>Python&nbsp;&nbsp;<b>Libraries learned:&nbsp;</b>Pythorch,Pandas, Pythorch Autograd</p>
+<p><b>Language:&nbsp;</b>R&nbsp;&nbsp;<b>Libraries learned:&nbsp;</b>None</p>
 Thanks to the course of Web Mining, I have acquired knwoledge about the use of statistical models for the representation and modelling of graph-based data. The project aim was to develop a statistical model able to capture,represent and learn the relations of the penguins of the acquarium of Tokyo
 
 <h1><a href='https://github.com/JosephMartinelli/DataMining-Organization'>Data Mining and Organization: Data Mining Project</a></h1>
